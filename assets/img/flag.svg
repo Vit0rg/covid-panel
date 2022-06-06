@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="flag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="45.254834"
+     inkscape:cx="11.114835"
+     inkscape:cy="7.4688154"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect610"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none"
+       d="m 5.6665481,2.6670548 c 0,0 1.7111109,-0.4522929 2.5086215,-0.1927759 0.795801,0.2589608 1.398449,0.9668701 1.9106584,1.6286871 0.512047,0.6616069 1.08028,1.4738638 1.900497,1.6475481 0.926427,0.1961753 2.716629,-0.8310821 2.716629,-0.8310821 l -1.906102,5.876411 c 0,0 -1.783133,0.570674 -2.631339,0.322783 C 9.3935356,10.89301 8.8126126,10.205939 8.3058126,9.5814842 7.7450287,8.890511 7.2614646,8.0468024 6.4387609,7.7808402 5.6210415,7.516493 3.8865327,8.145573 3.8865327,8.145573 Z"
+       sodipodi:nodetypes="casaccasacc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.452004;stroke-linecap:round;stroke-linejoin:round"
+       id="rect184"
+       width="0.76731157"
+       height="13.223598"
+       x="5.4110646"
+       y="-0.082919717"
+       ry="0.47288531"
+       rx="0"
+       transform="rotate(18)" />
+  </g>
+</svg>
