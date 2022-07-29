@@ -25,3 +25,5 @@ the globe with search component embedded.
 
 ## License:
 https://github.com/Vit0rg/covid-map/blob/master/LICENSE
+
+[Deploy](https://vit0rg.github.io/covid-panel/)
