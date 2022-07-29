@@ -4,109 +4,33 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon" href="./assets/img/coronavirus192.png">
+  <meta name="description" content="Simple Progressive Web App to display real-time data about the coronavirus disease">
+  <meta name="theme-color" content="#333">
   <title>Covid Map</title>
-  <link rel="stylesheet" href="./assets/styles/main.css">
+  <link rel="stylesheet" href="./main.css">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="shortcut icon" href="./assets/img/globe.svg" type="image/x-icon">
   <script defer src="./assets/script.js"></script>
 </head>
 <body>
-  <h1>Covid map</h1>
+  <header>
+    <h1>Stay safe</h1>
+    <section id="search_container">
+      <input type="search" placeholder="Search for country" data-search>
+    </section>
+  
+  </header>
+  
   <main>
-    <ul>
-      <li>
-        <img src="./assets/img/flag.svg">
-        <h2>Country name</h2>
-        <section>
-          <span class="info">
-            <h3>Cases:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Today:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Active:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Deaths:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Recovered:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Critical:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-        </section>
-      </li>
-      <li>
-        <img src="./assets/img/flag.svg">
-        <h2>Country name</h2>
-        <section>
-          <span class="info">
-            <h3>Cases:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Today:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Active:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Deaths:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Recovered:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Critical:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-        </section>
-      </li>
-      <li>
-        <img src="./assets/img/flag.svg">
-        <h2>Country name</h2>
-        <section>
-          <span class="info">
-            <h3>Cases:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Today:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Active:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Deaths:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Recovered:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-          <span class="info">
-            <h3>Critical:</h3>
-            <span class="data">B,MMM,mmm,ccc</span>
-          </span>
-        </section>
-      </li>
+
+    <img id="scroll_left" src="./assets/img/left_arrow.svg" alt="" data-buttons>
+
+    <ul data-card-container>
     </ul>
 
+    <img id="scroll_right" src="./assets/img/right_arrow.svg" alt="" data-buttons>
 
   </main>
-  <footer>
-  </footer>
 </body>
 </html>
