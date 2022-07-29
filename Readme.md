@@ -15,13 +15,13 @@ the globe with search component embedded.
 
 ## Demo:
 ### Mobile:
-[1](https://github.com/Vit0rg/covid-map/blob/master/demo/mobile_1.png)
-[2](https://github.com/Vit0rg/covid-map/blob/master/demo/mobile_2.png)
-[3](https://github.com/Vit0rg/covid-map/blob/master/demo/mobile_3.png)
+[1](https://github.com/Vit0rg/covid-panel/blob/master/demo/mobile_1.png)
+[2](https://github.com/Vit0rg/covid-panel/blob/master/demo/mobile_2.png)
+[3](https://github.com/Vit0rg/covid-panel/blob/master/demo/mobile_3.png)
 
 ### Desktop:
-[1](https://github.com/Vit0rg/covid-map/blob/master/demo/desktop_1.png)
-[2](https://github.com/Vit0rg/covid-map/blob/master/demo/desktop_2.png)
+[1](https://github.com/Vit0rg/covid-panel/blob/master/demo/desktop_1.png)
+[2](https://github.com/Vit0rg/covid-panel/blob/master/demo/desktop_2.png)
 
 ## License:
 https://github.com/Vit0rg/covid-map/blob/master/LICENSE
