@@ -23,5 +23,5 @@ the globe with search component embedded.
 [1](https://github.com/Vit0rg/covid-map/blob/master/demo/desktop_1.png)
 [2](https://github.com/Vit0rg/covid-map/blob/master/demo/desktop_2.png)
 
-# License:
+## License:
 https://github.com/Vit0rg/covid-map/blob/master/LICENSE
